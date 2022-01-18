@@ -1,0 +1,12 @@
+.cardHeading {
+  background: -webkit-linear-gradient(to right, #ffffff 0%, #979797 100%);
+  background: -moz-linear-gradient(to right, #ffffff 0%, #979797 100%);
+  background: linear-gradient(to right, #ffffff 0%, #959696 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+#Works {
+  scroll-margin-top: 7rem;
+}

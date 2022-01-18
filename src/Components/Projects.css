@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@487;500;700&display=swap");
+
+#Projects {
+  font-family: "Space Grotesk", sans-serif;
+  scroll-margin-top: 7rem;
+}
+
+#projectsHeading {
+  background: -webkit-linear-gradient(to right, #ffffff 0%, #979797 100%);
+  background: -moz-linear-gradient(to right, #ffffff 0%, #979797 100%);
+  background: linear-gradient(to right, #ffffff 0%, #959696 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.lead {
+  color: azure;
+}

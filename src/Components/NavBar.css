@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@487;500;700&display=swap');
+
+
+#navbarTitle{
+    font-size: 200%;
+    font-family: 'Space Grotesk', sans-serif;
+}
+#Navbar{
+    
+    background: #CFE7fA;
+background: -webkit-linear-gradient(to right, #ffffff 0%, #ffffff 100%);
+background: -moz-linear-gradient(to right, #ffffff 0%, #ffffff 100%);
+background: linear-gradient(to right, #ffffff 0%, #ffffff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: large;
+    font-family: 'Space Grotesk', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+#navs{
+    font-size: x-large;
+}
+
+@media only screen and (max-width: 600px){
+    .navbar-toggler{
+        width: min-content;
+        display: block;
+    };
+    #navbarTitle{
+        font-size: 10%;
+    };
+    #icons{
+        display: block;
+    };
+    .navbar-brand{
+        font-size: 10%;
+        display: block;
+    }
+
+
+}

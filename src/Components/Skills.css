@@ -1,0 +1,22 @@
+.cardHeading {
+  background: -webkit-linear-gradient(to right, #ffffff 0%, #979797 100%);
+  background: -moz-linear-gradient(to right, #ffffff 0%, #979797 100%);
+  background: linear-gradient(to right, #ffffff 0%, #959696 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+#Skills {
+  scroll-margin-top: 7rem;
+}
+
+/* @media only screen and (max-width: 575px) {
+  #skillsRow {
+    overflow: auto;
+    white-space: nowrap;
+  }
+  .skillCards {
+    display: inline-block;
+  }
+} */

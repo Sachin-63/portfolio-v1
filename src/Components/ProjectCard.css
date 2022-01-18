@@ -1,0 +1,21 @@
+
+
+
+#cardBody{
+    background: #222325;
+}
+
+#projectCard{
+    box-shadow: 0px 0px 5px 0px rgba(221, 205, 205, 0.75);
+-webkit-box-shadow: 0px 0px 5px 0px rgba(221, 205, 205, 0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(221, 205, 205, 0.75);
+}
+
+#cardHeading{
+    background: -webkit-linear-gradient(to right, #ffffff 0%, #979797 100%);
+  background: -moz-linear-gradient(to right, #ffffff 0%, #979797 100%);
+  background: linear-gradient(to right, #ffffff 0%, #959696 100%);
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;
+  font-family: "Space Grotesk", sans-serif; 
+}
