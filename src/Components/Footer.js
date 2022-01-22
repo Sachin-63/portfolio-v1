@@ -8,7 +8,7 @@ const Footer = () => {
           <div class="col-md-4 d-flex align-items-center">
             <span class="text-muted">
               Created By &nbsp;
-              <a className="navbar-brand " style={{ color: "white" }} href="https://sachin-63.github.io/portfolio-v1/">
+              <a className="navbar-brand " style={{ color: "#ffffff" }} href="https://sachin-63.github.io/portfolio-v1/">
                 Sachin
               </a>
               | © All rights reserved.
