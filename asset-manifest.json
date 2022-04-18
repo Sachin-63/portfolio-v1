@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/portfolio-v1/static/css/main.70862515.chunk.css",
-    "main.js": "/portfolio-v1/static/js/main.6422ca5b.chunk.js",
-    "main.js.map": "/portfolio-v1/static/js/main.6422ca5b.chunk.js.map",
+    "main.js": "/portfolio-v1/static/js/main.2ad89279.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.2ad89279.chunk.js.map",
     "runtime-main.js": "/portfolio-v1/static/js/runtime-main.b2c22162.js",
     "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.b2c22162.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/portfolio-v1/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.3ddd0e64.chunk.js": "/portfolio-v1/static/js/2.3ddd0e64.chunk.js",
-    "static/js/2.3ddd0e64.chunk.js.map": "/portfolio-v1/static/js/2.3ddd0e64.chunk.js.map",
+    "static/js/2.51e4ad7a.chunk.js": "/portfolio-v1/static/js/2.51e4ad7a.chunk.js",
+    "static/js/2.51e4ad7a.chunk.js.map": "/portfolio-v1/static/js/2.51e4ad7a.chunk.js.map",
     "index.html": "/portfolio-v1/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/portfolio-v1/static/css/2.7fc9bc2b.chunk.css.map",
     "static/css/main.70862515.chunk.css.map": "/portfolio-v1/static/css/main.70862515.chunk.css.map",
-    "static/js/2.3ddd0e64.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.3ddd0e64.chunk.js.LICENSE.txt",
+    "static/js/2.51e4ad7a.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.51e4ad7a.chunk.js.LICENSE.txt",
     "static/media/AntaragniLogo.41ffc65b.png": "/portfolio-v1/static/media/AntaragniLogo.41ffc65b.png",
     "static/media/FMC.2893d963.jpg": "/portfolio-v1/static/media/FMC.2893d963.jpg",
     "static/media/Proj-1.2f6877b7.png": "/portfolio-v1/static/media/Proj-1.2f6877b7.png",
     "static/media/Proj-2.dd98820d.png": "/portfolio-v1/static/media/Proj-2.dd98820d.png",
-    "static/media/Proj-3.06550b0d.png": "/portfolio-v1/static/media/Proj-3.06550b0d.png",
+    "static/media/Proj-3.18ae255a.png": "/portfolio-v1/static/media/Proj-3.18ae255a.png",
     "static/media/Proj-4.2392328a.png": "/portfolio-v1/static/media/Proj-4.2392328a.png",
-    "static/media/Sopan.b82f70b0.png": "/portfolio-v1/static/media/Sopan.b82f70b0.png"
+    "static/media/Proj-5.c5f41070.png": "/portfolio-v1/static/media/Proj-5.c5f41070.png",
+    "static/media/Sopan.b82f70b0.png": "/portfolio-v1/static/media/Sopan.b82f70b0.png",
+    "static/media/WIPLogo.fa02b2c9.png": "/portfolio-v1/static/media/WIPLogo.fa02b2c9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b2c22162.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.3ddd0e64.chunk.js",
+    "static/js/2.51e4ad7a.chunk.js",
     "static/css/main.70862515.chunk.css",
-    "static/js/main.6422ca5b.chunk.js"
+    "static/js/main.2ad89279.chunk.js"
   ]
 }
