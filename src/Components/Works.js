@@ -110,7 +110,7 @@ const Works = () => {
                     <Card.Title className="cardHeading mt-2">
                       Antaragni
                     </Card.Title>
-                    <Card.Text>Organizer (Videography)</Card.Text>
+                    <Card.Text>Organizer (Media and Publicity)</Card.Text>
                   </Card.Body>
                 </Card>
               </a>
