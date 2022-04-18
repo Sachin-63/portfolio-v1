@@ -2,8 +2,18 @@ import projImg1 from "./Proj-1.png";
 import projImg2 from "./Proj-2.png";
 import projImg3 from "./Proj-3.png";
 import projImg4 from "./Proj-4.png";
+import projImg5 from "./Proj-5.png";
 
 const projData = [
+  {
+    name: "BizUp",
+    img: projImg5,
+    description:
+      "Create a web application under an internship project using ReactJs and NodeJs and hosted it on Firebase to help small and micro businesses.",
+    tags: ["ReactJs", "NodeJs", "GoogleAPI", "FireBase"],
+    page: "https://bizup.co.in",
+    code: "https://github.com/nikhilnadiger/BizUp",
+  },
   {
     name: "Cli-Mate",
     img: projImg1,
@@ -26,7 +36,7 @@ const projData = [
     name: "News Ninja",
     img: projImg3,
     description:
-      "Developed a news websited which gives a quick update on current affairs to it's users using MERN stack.",
+      "Developed a news websited which gives a quick update on current affairs to it's users using MERN stack and NewsApi to gather new data.",
     tags: ["ReactJS", "Node", "Bootstrap", "API"],
     page: "https://sachin-63.github.io/iNews/",
     code: "https://github.com/Sachin-63/NewsNinja",

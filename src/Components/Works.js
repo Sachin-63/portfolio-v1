@@ -4,6 +4,7 @@ import { Card } from "react-bootstrap";
 import ShikshaSopan from "../Assets/Sopan.png";
 import Antaragni from "../Assets/AntaragniLogo.png";
 import FMC from "../Assets/FMC.jpg";
+import WIP from "../Assets/WIPLogo.png";
 
 const Works = () => {
   return (
@@ -18,7 +19,39 @@ const Works = () => {
         </h1>
         <hr />
         <div className="container row mx-auto mt-0 d-flex justify-content-center">
-          <div className="col-lg-4 col-sm-9" data-aos="fade-up">
+          <div className="col-lg-5 col-sm-9" data-aos="fade-up">
+            <div id="workCard1 ">
+              <a
+                href="https://bizup.co.in/"
+                style={{ textDecoration: "none" }}
+                target="_blank"
+              >
+                <Card
+                  style={{
+                    width: "15",
+                    backgroundColor: "#222325",
+                    color: "white",
+                  }}
+                  className="my-4 mx-lg-3 p-2"
+                  id="projectCard"
+                >
+                  <Card.Img
+                    variant="top"
+                    src={WIP}
+                    className="mx-auto"
+                    style={{ height: "12.5rem", width: "12.5rem" }}
+                  />
+                  <Card.Body className="cardBody">
+                    <Card.Title className="cardHeading mt-2">
+                      WIP Technology Solutions
+                    </Card.Title>
+                    <Card.Text>Project Intern</Card.Text>
+                  </Card.Body>
+                </Card>
+              </a>
+            </div>
+          </div>
+          <div className="col-lg-5 col-sm-9" data-aos="fade-up">
             <div id="workCard1 ">
               <a
                 href="https://www.shiksha-sopan.org/"
@@ -50,7 +83,7 @@ const Works = () => {
               </a>
             </div>
           </div>
-          <div className="col-lg-4 col-sm-9" data-aos="fade-up">
+          <div className="col-lg-5 col-sm-9" data-aos="fade-up">
             <div id="workCard1 ">
               <a
                 href="https://antaragni.in/"
@@ -83,7 +116,7 @@ const Works = () => {
               </a>
             </div>
           </div>
-          <div className="col-lg-4 col-sm-9" data-aos="fade-up">
+          <div className="col-lg-5 col-sm-9" data-aos="fade-up">
             <div id="workCard1 ">
               <a
                 href="https://www.youtube.com/channel/UCLi1wN-vO5RedLRCuDKBB_g"

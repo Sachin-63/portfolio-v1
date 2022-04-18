@@ -34,6 +34,9 @@ const Projects = () => {
           <div className="col-lg-5 col-sm-9">
             <ProjectCard projData={projData[3]} />
           </div>
+          <div className="col-lg-5 col-sm-9">
+            <ProjectCard projData={projData[4]} />
+          </div>
         </div>
       </div>
       <hr style={{ width: "100%", bottom: "0px", marginBottom: "2rem" }} />

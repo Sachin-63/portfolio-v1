@@ -1,6 +1,7 @@
 import React from "react";
 import { Card } from "react-bootstrap";
 import { GrReactjs } from "react-icons/gr";
+import { SiPostgresql } from "react-icons/si";
 import { FaBootstrap, FaSass, FaNodeJs, FaPhp, FaPython } from "react-icons/fa";
 import {
   SiMongodb,
@@ -70,11 +71,12 @@ const Skills = () => {
                   <div className="d-flex justify-content-evenly mb-2">
                     <FaNodeJs color="#4F9640" size="1.5rem" />
                     <SiMongodb color="#4BA13E" size="1.5rem" />
+                    <SiPostgresql color="#7B7B70" size="1.5rem" />
                     <SiExpress color="#7B7B7B" size="1.5rem" />
                   </div>
                   <Card.Title className="cardHeading mt-2">Back-End</Card.Title>
                   <Card.Text>
-                    Experienced with NodeJS, MongoDB and Express.
+                    Experienced with NodeJS, MongoDB, PostgreSQL and Express.
                   </Card.Text>
                 </Card.Body>
               </Card>
