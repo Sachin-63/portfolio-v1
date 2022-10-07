@@ -29,7 +29,7 @@ const About = () => {
           </h2>
           <p class="lead fw-normal fs-4 ">
             And I am a Full-Stack Web and App Developer, Video Editor,
-            Programmer, Gamer and a third-year undergraduate at the Mechanical
+            Programmer, Gamer and a final-year undergraduate in the Mechanical
             department of IIT Kanpur.
           </p>
         </div>
