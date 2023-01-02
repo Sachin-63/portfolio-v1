@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-v1/static/css/main.70862515.chunk.css",
-    "main.js": "/portfolio-v1/static/js/main.94b07ca9.chunk.js",
-    "main.js.map": "/portfolio-v1/static/js/main.94b07ca9.chunk.js.map",
+    "main.js": "/portfolio-v1/static/js/main.6ded1d7f.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.6ded1d7f.chunk.js.map",
     "runtime-main.js": "/portfolio-v1/static/js/runtime-main.b2c22162.js",
     "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.b2c22162.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/portfolio-v1/static/css/2.7fc9bc2b.chunk.css",
@@ -17,9 +17,11 @@
     "static/media/Proj-1.2f6877b7.png": "/portfolio-v1/static/media/Proj-1.2f6877b7.png",
     "static/media/Proj-2.dd98820d.png": "/portfolio-v1/static/media/Proj-2.dd98820d.png",
     "static/media/Proj-3.18ae255a.png": "/portfolio-v1/static/media/Proj-3.18ae255a.png",
-    "static/media/Proj-4.2392328a.png": "/portfolio-v1/static/media/Proj-4.2392328a.png",
+    "static/media/Proj-4.d84baf77.png": "/portfolio-v1/static/media/Proj-4.d84baf77.png",
     "static/media/Proj-5.c5f41070.png": "/portfolio-v1/static/media/Proj-5.c5f41070.png",
+    "static/media/Proj-6.f6dda15f.png": "/portfolio-v1/static/media/Proj-6.f6dda15f.png",
     "static/media/Sopan.b82f70b0.png": "/portfolio-v1/static/media/Sopan.b82f70b0.png",
+    "static/media/TrellixLogo.9ac47c6d.png": "/portfolio-v1/static/media/TrellixLogo.9ac47c6d.png",
     "static/media/WIPLogo.fa02b2c9.png": "/portfolio-v1/static/media/WIPLogo.fa02b2c9.png"
   },
   "entrypoints": [
@@ -27,6 +29,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.51e4ad7a.chunk.js",
     "static/css/main.70862515.chunk.css",
-    "static/js/main.94b07ca9.chunk.js"
+    "static/js/main.6ded1d7f.chunk.js"
   ]
 }
