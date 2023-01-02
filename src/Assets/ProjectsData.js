@@ -3,8 +3,18 @@ import projImg2 from "./Proj-2.png";
 import projImg3 from "./Proj-3.png";
 import projImg4 from "./Proj-4.png";
 import projImg5 from "./Proj-5.png";
+import projImg6 from "./Proj-6.png";
 
 const projData = [
+  {
+    name: "Smart Traveller",
+    img: projImg6,
+    description:
+      "Worked as App Developer of a mobile application which helps the travellers to know their travelling destinations and make it easier for them to plan their trips.",
+    tags: ["ReactNative", "NodeJs", "MongoDB", "Android Studio"],
+    page: "https://play.google.com/store/apps/details?id=com.smarttraveller95590",
+    code: "",
+  },
   {
     name: "BizUp",
     img: projImg5,

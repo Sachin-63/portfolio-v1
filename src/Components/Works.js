@@ -5,6 +5,8 @@ import ShikshaSopan from "../Assets/Sopan.png";
 import Antaragni from "../Assets/AntaragniLogo.png";
 import FMC from "../Assets/FMC.jpg";
 import WIP from "../Assets/WIPLogo.png";
+import SmartT from "../Assets/SmartTLogo.png";
+import Trellix from "../Assets/TrellixLogo.png";
 
 const Works = () => {
   return (
@@ -19,6 +21,70 @@ const Works = () => {
         </h1>
         <hr />
         <div className="container row mx-auto mt-0 d-flex justify-content-center">
+          <div className="col-lg-5 col-sm-9" data-aos="fade-up">
+            <div id="workCard1 ">
+              <a
+                href="https://www.trellix.com/en-us/index.html"
+                style={{ textDecoration: "none" }}
+                target="_blank"
+              >
+                <Card
+                  style={{
+                    width: "15",
+                    backgroundColor: "#222325",
+                    color: "white",
+                  }}
+                  className="my-4 mx-lg-3 p-2"
+                  id="projectCard"
+                >
+                  <Card.Img
+                    variant="top"
+                    src={Trellix}
+                    className="mx-auto"
+                    style={{ height: "12.5rem", width: "12.5rem" }}
+                  />
+                  <Card.Body className="cardBody">
+                    <Card.Title className="cardHeading mt-2">
+                      Trellix
+                    </Card.Title>
+                    <Card.Text>Software Development Intern</Card.Text>
+                  </Card.Body>
+                </Card>
+              </a>
+            </div>
+          </div>
+          <div className="col-lg-5 col-sm-9" data-aos="fade-up">
+            <div id="workCard1 ">
+              <a
+                href="https://thesmartraveller.com/"
+                style={{ textDecoration: "none" }}
+                target="_blank"
+              >
+                <Card
+                  style={{
+                    width: "15",
+                    backgroundColor: "#222325",
+                    color: "white",
+                  }}
+                  className="my-4 mx-lg-3 p-2"
+                  id="projectCard"
+                >
+                  <Card.Img
+                    variant="top"
+                    src={SmartT}
+                    className="mx-auto"
+                    style={{ height: "12.5rem", width: "12.5rem" }}
+                  />
+                  <Card.Body className="cardBody">
+                    <Card.Title className="cardHeading mt-2">
+                      Smart Traveller
+                    </Card.Title>
+                    <Card.Text>App Development Intern</Card.Text>
+                  </Card.Body>
+                </Card>
+              </a>
+            </div>
+          </div>
           <div className="col-lg-5 col-sm-9" data-aos="fade-up">
             <div id="workCard1 ">
               <a
@@ -110,7 +176,7 @@ const Works = () => {
                     <Card.Title className="cardHeading mt-2">
                       Antaragni
                     </Card.Title>
-                    <Card.Text>Organizer (Videography)</Card.Text>
+                    <Card.Text>Organizer (Media and Publicity)</Card.Text>
                   </Card.Body>
                 </Card>
               </a>

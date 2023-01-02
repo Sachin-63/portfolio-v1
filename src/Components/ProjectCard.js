@@ -23,7 +23,7 @@ const ProjectCard = (props) => {
                 href={props.projData.page}
                 target="_blank"
               >
-                &nbsp;&nbsp;Page&nbsp;&nbsp;
+                &nbsp;&nbsp;App&nbsp;&nbsp;
               </Button>
               <Button
                 variant="outline-warning"
